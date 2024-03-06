@@ -21,3 +21,7 @@ _Меня зовут Андрей. Для повышения квалифика�
 ## My portfolio
 **Projects**
   * [Тестирование интернет-магазина](https://github.com/Retroman95/qa-engineer-project-84)
+  * [Тестирование приложения Codebattle](https://github.com/Retroman95/qa-engineer-project-85)
+
+## Contacts
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Retroman95)
