@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 _Меня зовут Андрей. Для повышения квалификации как тестировщик закончил учебу по направлению QA в школе программирования Хекслет._
 ## My CV
-Подробное [резюме]https://cv.hexlet.io/ru/resumes/3664)
+Подробное [резюме](https://cv.hexlet.io/ru/resumes/3664)
 
 ## My portfolio
 **Projects**
